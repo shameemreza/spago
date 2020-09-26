@@ -1,4 +1,5 @@
 # SPAGO :sparkles:
+
 Flutter Food Ordering Mobile App.
 
 If you are looking to start your own online food ordering or restaurant business then this Flutter App template will help you out with all the necessary requirements that you need to start your online food ordering system.
@@ -9,6 +10,8 @@ The source code is **100% Dart**, and everything resides in the [/lib](https://g
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/shameemreza/spago/blob/master/licence.txt)
 
 # Screenshots
+
+<img height="480px" src="raw/1.png"><img height="480px" src="raw/2.png">
 
 # Credits:
 
